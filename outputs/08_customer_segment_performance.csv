@@ -1,0 +1,4 @@
+customer_segment,delivery_records,late_deliveries,late_delivery_rate_pct,avg_shipping_delay_days,total_sales
+Home Office,30817,17747.0,57.59,0.58,6238683.7
+Consumer,89420,51248.0,57.31,0.57,18264367.26
+Corporate,52528,29982.0,57.08,0.56,10711378.69

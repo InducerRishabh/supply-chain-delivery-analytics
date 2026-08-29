@@ -1,0 +1,21 @@
+market,shipping_mode,delivery_records,late_deliveries,late_delivery_rate_pct,avg_shipping_delay_days
+Africa,First Class,1675,1675.0,100.0,1.0
+Africa,Second Class,2091,1675.0,80.11,1.98
+Africa,Same Day,634,294.0,46.37,0.46
+Africa,Standard Class,6754,2696.0,39.92,0.02
+Europe,First Class,7562,7562.0,100.0,1.0
+Europe,Second Class,9470,7596.0,80.21,2.01
+Europe,Same Day,2624,1281.0,48.82,0.49
+Europe,Standard Class,28434,11304.0,39.76,-0.02
+LATAM,First Class,7471,7471.0,100.0,1.0
+LATAM,Second Class,9498,7510.0,79.07,1.99
+LATAM,Same Day,2528,1273.0,50.36,0.5
+LATAM,Standard Class,29812,11790.0,39.55,-0.01
+Pacific Asia,First Class,5991,5991.0,100.0,1.0
+Pacific Asia,Second Class,7829,6293.0,80.38,1.99
+Pacific Asia,Same Day,2135,969.0,45.39,0.45
+Pacific Asia,Standard Class,23630,9459.0,40.03,-0.0
+USCA,First Class,3814,3814.0,100.0,1.0
+USCA,Second Class,4918,3913.0,79.56,1.98
+USCA,Same Day,1372,637.0,46.43,0.46
+USCA,Standard Class,14523,5774.0,39.76,-0.0

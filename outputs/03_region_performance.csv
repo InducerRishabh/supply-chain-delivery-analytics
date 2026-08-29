@@ -1,0 +1,24 @@
+order_region,delivery_records,late_deliveries,late_delivery_rate_pct,avg_shipping_delay_days,avg_actual_shipping_days,avg_scheduled_shipping_days
+Central Africa,1616,972.0,60.15,0.63,3.56,2.93
+Western Europe,25867,15140.0,58.53,0.6,3.5,2.9
+South of  USA ,3855,2256.0,58.52,0.6,3.5,2.91
+South Asia,7455,4350.0,58.35,0.6,3.5,2.9
+East Africa,1781,1036.0,58.17,0.59,3.51,2.92
+East of USA,6617,3849.0,58.17,0.59,3.5,2.91
+Southeast Asia,9136,5297.0,57.98,0.56,3.5,2.94
+West Asia,5746,3322.0,57.81,0.58,3.48,2.91
+Eastern Europe,3785,2182.0,57.65,0.59,3.5,2.91
+US Center ,5653,3252.0,57.53,0.6,3.46,2.86
+South America,14184,8111.0,57.18,0.56,3.51,2.95
+Central America,27174,15518.0,57.11,0.56,3.51,2.95
+North Africa,3086,1762.0,57.1,0.56,3.48,2.92
+Southern Europe,9030,5129.0,56.8,0.51,3.43,2.92
+West of USA ,7595,4313.0,56.79,0.56,3.51,2.95
+Eastern Asia,6973,3955.0,56.72,0.56,3.53,2.97
+Central Asia,542,306.0,56.46,0.63,3.4,2.77
+Oceania,9733,5482.0,56.32,0.56,3.51,2.95
+Northern Europe,9408,5292.0,56.25,0.54,3.5,2.95
+Southern Africa,1100,617.0,56.09,0.48,3.47,2.99
+Caribbean,7951,4415.0,55.53,0.54,3.51,2.97
+West Africa,3571,1953.0,54.69,0.55,3.53,2.98
+Canada,907,468.0,51.6,0.38,3.35,2.97

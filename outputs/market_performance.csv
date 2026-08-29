@@ -1,0 +1,6 @@
+market,delivery_records,late_deliveries,late_delivery_rate_pct,avg_shipping_delay_days,avg_actual_shipping_days,avg_scheduled_shipping_days
+Europe,48090,27743.0,57.69,0.57,3.49,2.92
+USCA,24627,14138.0,57.41,0.58,3.49,2.91
+Pacific Asia,39585,22712.0,57.38,0.57,3.5,2.93
+LATAM,49309,28044.0,56.87,0.55,3.51,2.96
+Africa,11154,6340.0,56.84,0.56,3.51,2.95
